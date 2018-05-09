@@ -3,8 +3,8 @@
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='linuxpay.conf'
 CONFIGFOLDER='/root/.linuxpay'
-COIN_DAEMON='/root/linuxpayd'
-COIN_CLI='/root/linuxpay-cli'
+COIN_DAEMON='/usr/local/bin/linuxpayd'
+COIN_CLI='/usr/local/bin/linuxpay-cli''
 COIN_REPO='https://www.dropbox.com/s/gdsra52lnkkjqiu/linuxpay-linux.tar.gz'
 COIN_NAME='LINUXPAY'
 COIN_PORT=9020
