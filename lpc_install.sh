@@ -5,7 +5,7 @@ CONFIG_FILE='linuxpay.conf'
 CONFIGFOLDER='/root/.linuxpay'
 COIN_DAEMON='/usr/local/bin/linuxpayd'
 COIN_CLI='/usr/local/bin/linuxpay-cli'
-COIN_REPO='https://www.dropbox.com/s/gdsra52lnkkjqiu/linuxpay-linux.tar.gz'
+COIN_REPO='https://www.dropbox.com/s/kfya95v4r6isf84/linuxpay-linux.tar.gz'
 COIN_NAME='LINUXPAY'
 COIN_PORT=9020
 
