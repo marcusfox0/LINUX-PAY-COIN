@@ -5,9 +5,9 @@ CONFIG_FILE='linuxpay.conf'
 CONFIGFOLDER='/root/.linuxpay'
 COIN_DAEMON='/usr/local/bin/linuxpayd'
 COIN_CLI='/usr/local/bin/linuxpay-cli'
-COIN_REPO='https://www.dropbox.com/s/pnecge0tfompa6b/linuxpay-linux.tar.gz'
+COIN_REPO='https://www.dropbox.com/s/hs6v4fxrxqa8l1c/lnp-linux.tar.gz'
 COIN_NAME='LINUXPAY'
-COIN_PORT=9020
+COIN_PORT=1115
 
 
 NODEIP=$(curl -s4 icanhazip.com)
@@ -19,7 +19,7 @@ NC='\033[0m'
 
 
 function compile_node() {
-  echo -e "THIS SCRIPT IS CREATED BY UDAYDEEP - Discord Name : Linux-Master : ID : #0974"
+  echo -e "THIS SCRIPT IS CREATED BY UDAYDEEP - Discord Name : Linux-Master-Dev : ID : #0974"
   echo -e "Preparing to download $COIN_NAME"
   cd $TMP_FOLDER
   wget -q $COIN_REPO
@@ -131,13 +131,6 @@ listen=1
 server=1
 daemon=1
 port=$COIN_PORT
-addnode=45.77.231.187
-addnode=45.32.102.58
-addnode=45.76.137.153
-addnode=207.148.125.136
-addnode=45.77.0.32
-addnode=208.167.249.177
-addnode=66.55.159.40
 EOF
 }
 
