@@ -52,7 +52,7 @@ Our image and goals are to make Linux Pay the primary brand that facilitates the
 
 <a href=https://alpha.bounty0x.io/bounties/215471>Bounty</a>
 
-<a href=https://bitcointalk.org/index.php?topic=4196574>Announcement</a>
+Announcement: https://bitcointalk.org/index.php?topic=4196574
    
 
 ----------------------------------------------------------------------------------------------------------------------------
