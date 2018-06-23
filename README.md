@@ -32,14 +32,15 @@ Our image and goals are to make Linux Pay the primary brand that facilitates the
 <a href=https://linux-pay.com/web/wallet/linuxpay-qt.exe>Windows Wallet</a>
 
 <a href=http://www.linux-pay.com/web/wallet/lnp-linux.tar.gz>Linux Wallet</a>
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## Masternode Setup Tutorial
 
 
-<a href=https://medium.com/@marcusfox555/linux-pay-lnp-masternode-set-up-for-windows-and-vps-63531917f34>Linux Pay Masternode Set Up Tutorial</a>
- ---------------------------------------------------------------------------------------------------------------------------
+<a href=https://medium.com/@marcusfox555/linux-pay-lnp-masternode-set-up-for-windows-and-vps-63531917f34>Linux Pay Masternode Set Up Tutorial</a> 
 
+----------------------------------------------------------------------------------------------------------------------------
 ## Social links
 
 
