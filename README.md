@@ -1,6 +1,9 @@
 
 ## Linux Pay Coin Masternode/POS
 
+----------------------------------------------------------------------------------------------------------------------------
+## Website
+
 <a href=https://linux-pay.com>Website</a>
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -24,10 +27,7 @@ Our image and goals are to make Linux Pay the primary brand that facilitates the
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-
 ## Wallet Downloads
-----------------------------------------------------------------------------------------------------------------------------
-
 
 <a href=https://linux-pay.com/web/wallet/linuxpay-qt.exe>Windows Wallet</a>
 
@@ -49,7 +49,7 @@ Our image and goals are to make Linux Pay the primary brand that facilitates the
    
 <a href=https://alpha.bounty0x.io/bounties/215471>Bounty.</a>
    
-<a href=https://bitcointalk.org/index.php?topic=41>Announcement.</a>
+<a href=https://bitcointalk.org/index.php?topic=41.>Announcement.</a>
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -67,6 +67,8 @@ Form Link.</a>
 
 Linux-Pay is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
+
+----------------------------------------------------------------------------------------------------------------------------
 
 ## Development Process
 ----------------------------------------------------------------------------------------------------------------------------
