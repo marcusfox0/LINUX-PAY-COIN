@@ -1,15 +1,20 @@
 
-Linux Pay Coin Masternode/POS
-============================================================================================================================
+## Linux Pay Coin Masternode/POS
+
+<a href=https://linux-pay.com>Website</a>
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## White Paper
+
+<a href=https://linux-pay.com/web/LINUX-PAY-COIN-WHITE-PAPER-v1.0.pdf>WhitePaper</a>
 
 
-
-##  Website https://linux-pay.com/
-
+----------------------------------------------------------------------------------------------------------------------------
 
 
-What is Linux-Pay?
-----------------
+ ## What is Linux-Pay?
+----------------------------------------------------------------------------------------------------------------------------
 
 LNP is the base crypto currency used in all upcoming projects of the linux pay projects. Currently we are working on two crypto projects- one is Decentralized exchange with lots of amazing features and another is a freelancer portal which will empower Linux coding expert and block chain developers.
 
@@ -19,45 +24,46 @@ Our image and goals are to make Linux Pay the primary brand that facilitates the
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-## Wallet Downloads
 
+## Wallet Downloads
 ----------------------------------------------------------------------------------------------------------------------------
 
-<a href=https://linux-pay.com/web/wallet/linuxpay-qt.exe>Windows Wallet.</a>
 
-<a href=http://www.linux-pay.com/web/wallet/lnp-linux.tar.gz>Linux Wallet.</a>
+<a href=https://linux-pay.com/web/wallet/linuxpay-qt.exe>Windows Wallet</a>
 
-
+<a href=http://www.linux-pay.com/web/wallet/lnp-linux.tar.gz>Linux Wallet</a>
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## Masternode Setup Tutorial
 
-----------------------------------------------------------------------------------------------------------------------------
 
-<a href=https://medium.com/@marcusfox555/linux-pay-lnp-masternode-set-up-for-windows-and-vps-63531917f34>Linux Pay Masternode Set Up Tutorial.</a>
- 
-
-----------------------------------------------------------------------------------------------------------------------------
+<a href=https://medium.com/@marcusfox555/linux-pay-lnp-masternode-set-up-for-windows-and-vps-63531917f34>Linux Pay Masternode Set Up Tutorial</a>
+ ---------------------------------------------------------------------------------------------------------------------------
 
 ## Social links
 
-----------------------------------------------------------------------------------------------------------------------------
- <a href=https://discord.me/linuxpay>Discord.</a> 
+
+<a href=https://discord.me/linuxpay>Discord.</a>
  
- <a href=https://twitter.com/linuxpay>Twitter.</a>
+<a href=https://twitter.com/linuxpay>Twitter.</a>
+   
+<a href=https://alpha.bounty0x.io/bounties/215471>Bounty.</a>
+   
+<a href=https://bitcointalk.org/index.php?topic=41>Announcement.</a>
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## Need to swap your coins?
 
-----------------------------------------------------------------------------------------------------------------------------
+
 Send Your Old Coins (LPC) to This Address ==>>  7SDKEYkwVLgy3e8RRXScQ7NejBTLC27v 
                                  
 And then fill out the form and follow the procedures. Here is the <a href=https://docs.google.com/forms/d/e/1FAIpQLSehbGExBDAw4twE65aUTCosySFmkytFPKoHRU2U5Jo9Lv05bg/viewform>
 Form Link.</a>
 
+----------------------------------------------------------------------------------------------------------------------------
 
--------
+## Copyright
 
 Linux-Pay is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
@@ -74,4 +80,6 @@ We are at the start of the presale and once the coin is in the exchange the gith
 - Copyright (c) 2009-2015 Bitcoin Developers
 - Copyright (c) 2014-2017 Linux-Pay Developers
 - Copyright (c) 2017-2018 Linux-Pay Developers
+
+
 
